@@ -1,0 +1,16 @@
+{
+  "name": "javascript-wd",
+  "version": "1.0.0",
+  "description": "Appium sample code using 'wd'",
+  "scripts": {},
+  "author": "Dan Graham",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=6",
+    "npm": ">=6"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "pdf2json": "^1.1.8"
+  }
+}
